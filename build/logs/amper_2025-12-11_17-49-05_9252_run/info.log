@@ -1,0 +1,7 @@
+JetBrains Amper version 0.9.1 (7164273, 2025-11-28)
+running on Windows 10 10.0 jvm arch amd64
+
+00:02.807 INFO  :shared:compileJvm        JvmCompileTask            Compiling module 'shared' for platform 'jvm'...
+00:13.758 WARN  :shared:compileJvm        KotlinBuildToolsApiKt     file:///D:/github/projet_kotlin_ihm/archiveDesDieuxV1/shared/src/ui/components/CardImage.kt:34:50 'fun Image.asImageBitmap(): ImageBitmap' is deprecated. Use toComposeImageBitmap.
+00:13.877 INFO  :jvm-app:compileJvm       JvmCompileTask            Compiling module 'jvm-app' for platform 'jvm'...
+07:23.882 INFO  :jvm-app:runJvm           AbstractJvmRunTask        Process exited with exit code 0

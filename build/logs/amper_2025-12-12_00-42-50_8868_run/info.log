@@ -1,0 +1,6 @@
+JetBrains Amper version 0.9.1 (7164273, 2025-11-28)
+running on Windows 10 10.0 jvm arch amd64
+
+00:03.596 INFO  :shared:compileJvm        JvmCompileTask            Compiling module 'shared' for platform 'jvm'...
+00:12.108 ERROR :shared:compileJvm        KotlinBuildToolsApiKt     file:///D:/github/projet_kotlin_ihm/archiveDesDieuxV1/shared/src/ui/collection/CollectionScreen.kt:514:32 Argument type mismatch: actual type is 'Alignment', but 'Alignment.Horizontal' was expected.
+00:12.110 ERROR :shared:compileJvm        KotlinBuildToolsApiKt     file:///D:/github/projet_kotlin_ihm/archiveDesDieuxV1/shared/src/ui/collection/CollectionScreen.kt:590:1 Syntax error: Expecting a top level declaration.

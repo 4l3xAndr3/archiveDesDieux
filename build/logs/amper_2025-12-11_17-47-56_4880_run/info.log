@@ -1,0 +1,7 @@
+JetBrains Amper version 0.9.1 (7164273, 2025-11-28)
+running on Windows 10 10.0 jvm arch amd64
+
+00:02.895 INFO  :shared:compileJvm        JvmCompileTask            Compiling module 'shared' for platform 'jvm'...
+00:09.465 ERROR :shared:compileJvm        KotlinBuildToolsApiKt     file:///D:/github/projet_kotlin_ihm/archiveDesDieuxV1/shared/src/ui/collection/CollectionScreen.kt:152:34 Argument type mismatch: actual type is 'Alignment', but 'Offset' was expected.
+00:09.467 ERROR :shared:compileJvm        KotlinBuildToolsApiKt     file:///D:/github/projet_kotlin_ihm/archiveDesDieuxV1/shared/src/ui/collection/CollectionScreen.kt:164:30 Unresolved reference 'Offset'.
+00:09.469 ERROR :shared:compileJvm        KotlinBuildToolsApiKt     file:///D:/github/projet_kotlin_ihm/archiveDesDieuxV1/shared/src/ui/collection/CollectionScreen.kt:169:30 Unresolved reference 'Offset'.

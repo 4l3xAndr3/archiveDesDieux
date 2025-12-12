@@ -1,0 +1,28 @@
+{
+    "codeVersion": "0.9.1",
+    "inputValues": {},
+    "inputFiles": [],
+    "inputFilesState": {},
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\alexa\\AppData\\Local\\JetBrains\\Amper\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-klib-commonizer-embeddable\\2.2.21\\kotlin-klib-commonizer-embeddable-2.2.21.jar",
+        "C:\\Users\\alexa\\AppData\\Local\\JetBrains\\Amper\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-stdlib\\2.2.21\\kotlin-stdlib-2.2.21.jar",
+        "C:\\Users\\alexa\\AppData\\Local\\JetBrains\\Amper\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-compiler-embeddable\\2.2.21\\kotlin-compiler-embeddable-2.2.21.jar",
+        "C:\\Users\\alexa\\AppData\\Local\\JetBrains\\Amper\\.m2.cache\\org\\jetbrains\\annotations\\23.0.0\\annotations-23.0.0.jar",
+        "C:\\Users\\alexa\\AppData\\Local\\JetBrains\\Amper\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-script-runtime\\2.2.21\\kotlin-script-runtime-2.2.21.jar",
+        "C:\\Users\\alexa\\AppData\\Local\\JetBrains\\Amper\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-reflect\\1.6.10\\kotlin-reflect-1.6.10.jar",
+        "C:\\Users\\alexa\\AppData\\Local\\JetBrains\\Amper\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-daemon-embeddable\\2.2.21\\kotlin-daemon-embeddable-2.2.21.jar",
+        "C:\\Users\\alexa\\AppData\\Local\\JetBrains\\Amper\\.m2.cache\\org\\jetbrains\\kotlinx\\kotlinx-coroutines-core-jvm\\1.8.0\\kotlinx-coroutines-core-jvm-1.8.0.jar"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\alexa\\AppData\\Local\\JetBrains\\Amper\\.m2.cache\\org\\jetbrains\\annotations\\23.0.0\\annotations-23.0.0.jar": "size 29371 mtime 2025-12-04T22:04:57.0853547Z",
+        "C:\\Users\\alexa\\AppData\\Local\\JetBrains\\Amper\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-compiler-embeddable\\2.2.21\\kotlin-compiler-embeddable-2.2.21.jar": "size 56908512 mtime 2025-12-04T22:07:46.1800695Z",
+        "C:\\Users\\alexa\\AppData\\Local\\JetBrains\\Amper\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-daemon-embeddable\\2.2.21\\kotlin-daemon-embeddable-2.2.21.jar": "size 347987 mtime 2025-12-04T22:07:46.2313799Z",
+        "C:\\Users\\alexa\\AppData\\Local\\JetBrains\\Amper\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-klib-commonizer-embeddable\\2.2.21\\kotlin-klib-commonizer-embeddable-2.2.21.jar": "size 3683335 mtime 2025-12-04T22:07:45.9187375Z",
+        "C:\\Users\\alexa\\AppData\\Local\\JetBrains\\Amper\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-reflect\\1.6.10\\kotlin-reflect-1.6.10.jar": "size 3038560 mtime 2025-12-04T22:07:45.0193924Z",
+        "C:\\Users\\alexa\\AppData\\Local\\JetBrains\\Amper\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-script-runtime\\2.2.21\\kotlin-script-runtime-2.2.21.jar": "size 44769 mtime 2025-12-04T22:07:44.9463249Z",
+        "C:\\Users\\alexa\\AppData\\Local\\JetBrains\\Amper\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-stdlib\\2.2.21\\kotlin-stdlib-2.2.21.jar": "size 1761445 mtime 2025-12-04T22:07:44.5102839Z",
+        "C:\\Users\\alexa\\AppData\\Local\\JetBrains\\Amper\\.m2.cache\\org\\jetbrains\\kotlinx\\kotlinx-coroutines-core-jvm\\1.8.0\\kotlinx-coroutines-core-jvm-1.8.0.jar": "size 1548360 mtime 2025-12-04T22:04:50.233167Z"
+    },
+    "excludedOutputFiles": []
+}

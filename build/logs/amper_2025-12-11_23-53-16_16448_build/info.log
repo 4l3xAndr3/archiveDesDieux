@@ -1,0 +1,36 @@
+JetBrains Amper version 0.9.1 (7164273, 2025-11-28)
+running on Windows 10 10.0 jvm arch amd64
+
+00:07.356 INFO  :shared:compileJvm        JvmCompileTask            Compiling module 'shared' for platform 'jvm'...
+00:23.134 INFO  :android-app:installCmdlineToolsAndroid Downloader                Downloading https://dl.google.com/android/repository/commandlinetools-win-13114758_latest.zip to C:\Users\alexa\AppData\Local\JetBrains\Amper\download.cache\f432e82e21-commandlinetools-win-13114758_latest.zip
+00:37.969 WARN  :android-app:resolveDependenciesAndroidTest MavenResolver             Declared version 1.7.2 of dependency androidx.activity:activity-compose is overridden, the actual version is 1.8.2.
+00:37.969 WARN  :android-app:resolveDependenciesAndroid MavenResolver             Declared version 1.7.2 of dependency androidx.activity:activity-compose is overridden, the actual version is 1.8.2.
+00:37.983 WARN  :android-app:resolveDependenciesAndroidTest MavenResolver             Declared version 1.6.1 of dependency androidx.appcompat:appcompat is overridden, the actual version is 1.7.0.
+00:37.987 WARN  :android-app:resolveDependenciesAndroid MavenResolver             Declared version 1.6.1 of dependency androidx.appcompat:appcompat is overridden, the actual version is 1.7.0.
+00:37.989 WARN  :android-app:resolveDependenciesAndroidTest MavenResolver             Declared version 1.7.2 of dependency androidx.activity:activity-compose is overridden, the actual version is 1.8.2.
+00:37.990 WARN  :android-app:resolveDependenciesAndroid MavenResolver             Declared version 1.7.2 of dependency androidx.activity:activity-compose is overridden, the actual version is 1.8.2.
+00:37.996 WARN  :android-app:resolveDependenciesAndroidTest MavenResolver             Declared version 1.6.1 of dependency androidx.appcompat:appcompat is overridden, the actual version is 1.7.0.
+00:38.001 WARN  :android-app:resolveDependenciesAndroid MavenResolver             Declared version 1.6.1 of dependency androidx.appcompat:appcompat is overridden, the actual version is 1.7.0.
+00:38.135 INFO  :android-app:transformDependenciesAndroid TransformAarExternalDependenciesTask Transforming AAR external dependencies...
+00:38.748 WARN  :shared:resolveDependenciesAndroid MavenResolver             Declared version 1.7.2 of dependency androidx.activity:activity-compose is overridden, the actual version is 1.8.2.
+00:38.770 WARN  :shared:resolveDependenciesAndroid MavenResolver             Declared version 1.6.1 of dependency androidx.appcompat:appcompat is overridden, the actual version is 1.7.0.
+00:38.773 WARN  :shared:resolveDependenciesAndroid MavenResolver             Declared version 1.7.2 of dependency androidx.activity:activity-compose is overridden, the actual version is 1.8.2.
+00:38.775 WARN  :shared:resolveDependenciesAndroid MavenResolver             Declared version 1.6.1 of dependency androidx.appcompat:appcompat is overridden, the actual version is 1.7.0.
+00:38.836 WARN  :shared:resolveDependenciesAndroidTest MavenResolver             Declared version 1.7.2 of dependency androidx.activity:activity-compose is overridden, the actual version is 1.8.2.
+00:38.838 WARN  :shared:resolveDependenciesAndroidTest MavenResolver             Declared version 1.6.1 of dependency androidx.appcompat:appcompat is overridden, the actual version is 1.7.0.
+00:38.843 WARN  :shared:resolveDependenciesAndroidTest MavenResolver             Declared version 1.7.2 of dependency androidx.activity:activity-compose is overridden, the actual version is 1.8.2.
+00:38.850 WARN  :shared:resolveDependenciesAndroidTest MavenResolver             Declared version 1.6.1 of dependency androidx.appcompat:appcompat is overridden, the actual version is 1.7.0.
+00:38.862 WARN  :shared:resolveDependenciesAndroidTest MavenResolver             Declared version 1.7.2 of dependency androidx.activity:activity-compose is overridden, the actual version is 1.8.2.
+00:38.864 WARN  :shared:resolveDependenciesAndroidTest MavenResolver             Declared version 1.6.1 of dependency androidx.appcompat:appcompat is overridden, the actual version is 1.7.0.
+00:38.867 INFO  :shared:transformDependenciesAndroid TransformAarExternalDependenciesTask Transforming AAR external dependencies...
+00:38.867 WARN  :shared:resolveDependenciesAndroidTest MavenResolver             Declared version 1.7.2 of dependency androidx.activity:activity-compose is overridden, the actual version is 1.8.2.
+00:39.026 WARN  :shared:resolveDependenciesAndroidTest MavenResolver             Declared version 1.6.1 of dependency androidx.appcompat:appcompat is overridden, the actual version is 1.7.0.
+00:58.424 WARN  :shared:compileJvm        KotlinBuildToolsApiKt     file:///D:/github/projet_kotlin_ihm/archiveDesDieuxV1/shared/src/ui/booster/BoosterOpeningScreen.kt:247:50 'fun Image.asImageBitmap(): ImageBitmap' is deprecated. Use toComposeImageBitmap.
+00:58.427 WARN  :shared:compileJvm        KotlinBuildToolsApiKt     file:///D:/github/projet_kotlin_ihm/archiveDesDieuxV1/shared/src/ui/booster/CardRevealView.kt:193:50 'fun Image.asImageBitmap(): ImageBitmap' is deprecated. Use toComposeImageBitmap.
+00:58.429 WARN  :shared:compileJvm        KotlinBuildToolsApiKt     file:///D:/github/projet_kotlin_ihm/archiveDesDieuxV1/shared/src/ui/collection/CollectionScreen.kt:105:61 'fun Image.asImageBitmap(): ImageBitmap' is deprecated. Use toComposeImageBitmap.
+00:58.432 WARN  :shared:compileJvm        KotlinBuildToolsApiKt     file:///D:/github/projet_kotlin_ihm/archiveDesDieuxV1/shared/src/ui/collection/CollectionScreen.kt:114:61 'fun Image.asImageBitmap(): ImageBitmap' is deprecated. Use toComposeImageBitmap.
+00:58.434 WARN  :shared:compileJvm        KotlinBuildToolsApiKt     file:///D:/github/projet_kotlin_ihm/archiveDesDieuxV1/shared/src/ui/collection/CollectionScreen.kt:123:61 'fun Image.asImageBitmap(): ImageBitmap' is deprecated. Use toComposeImageBitmap.
+00:58.436 WARN  :shared:compileJvm        KotlinBuildToolsApiKt     file:///D:/github/projet_kotlin_ihm/archiveDesDieuxV1/shared/src/ui/common/SharedBackground.kt:32:50 'fun Image.asImageBitmap(): ImageBitmap' is deprecated. Use toComposeImageBitmap.
+00:58.438 WARN  :shared:compileJvm        KotlinBuildToolsApiKt     file:///D:/github/projet_kotlin_ihm/archiveDesDieuxV1/shared/src/ui/components/CardImage.kt:34:50 'fun Image.asImageBitmap(): ImageBitmap' is deprecated. Use toComposeImageBitmap.
+00:58.440 WARN  :shared:compileJvm        KotlinBuildToolsApiKt     file:///D:/github/projet_kotlin_ihm/archiveDesDieuxV1/shared/src/ui/main/MainMenuScreen.kt:183:50 'fun Image.asImageBitmap(): ImageBitmap' is deprecated. Use toComposeImageBitmap.
+00:58.442 WARN  :shared:compileJvm        KotlinBuildToolsApiKt     file:///D:/github/projet_kotlin_ihm/archiveDesDieuxV1/shared/src/ui/main/MainMenuScreen.kt:498:50 'fun Image.asImageBitmap(): ImageBitmap' is deprecated. Use toComposeImageBitmap.

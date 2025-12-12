@@ -1,0 +1,19 @@
+product:
+  type: lib
+  platforms: [jvm, android, iosArm64, iosSimulatorArm64, iosX64]
+
+dependencies:
+  - $compose.foundation: exported
+  - $compose.material3: exported
+  - org.jetbrains.compose.components:components-resources:1.7.0: exported
+  - io.coil-kt.coil3:coil-compose:3.0.0-rc01: exported
+  - io.coil-kt.coil3:coil-network-okhttp:3.0.0-rc01: exported
+
+dependencies@android:
+  # Compose integration with Android activities
+  - androidx.activity:activity-compose:1.7.2: exported
+  - androidx.appcompat:appcompat:1.6.1: exported
+
+settings:
+  compose:
+    enabled: true

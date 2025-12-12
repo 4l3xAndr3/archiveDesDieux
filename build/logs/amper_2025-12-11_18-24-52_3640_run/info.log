@@ -1,0 +1,6 @@
+JetBrains Amper version 0.9.1 (7164273, 2025-11-28)
+running on Windows 10 10.0 jvm arch amd64
+
+00:03.136 INFO  :shared:compileJvm        JvmCompileTask            Compiling module 'shared' for platform 'jvm'...
+00:10.323 ERROR :shared:compileJvm        KotlinBuildToolsApiKt     file:///D:/github/projet_kotlin_ihm/archiveDesDieuxV1/shared/src/ui/collection/CollectionScreen.kt:11:8 Unresolved reference 'archiveDesDieuxV1'.
+00:10.326 ERROR :shared:compileJvm        KotlinBuildToolsApiKt     file:///D:/github/projet_kotlin_ihm/archiveDesDieuxV1/shared/src/ui/collection/CollectionScreen.kt:66:60 Unresolved reference 'Res'.

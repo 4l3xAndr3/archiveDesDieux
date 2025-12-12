@@ -1,0 +1,7 @@
+JetBrains Amper version 0.9.1 (7164273, 2025-11-28)
+running on Windows 10 10.0 jvm arch amd64
+
+00:03.291 INFO  :shared:compileJvm        JvmCompileTask            Compiling module 'shared' for platform 'jvm'...
+00:11.631 ERROR :shared:compileJvm        KotlinBuildToolsApiKt     file:///D:/github/projet_kotlin_ihm/archiveDesDieuxV1/shared/src/ui/collection/CollectionScreen.kt:957:13 None of the following candidates is applicable:
+fun Box(modifier: Modifier = ..., contentAlignment: Alignment = ..., propagateMinConstraints: Boolean = ..., content: ComposableFunction1<BoxScope, Unit>): Unit
+fun Box(modifier: Modifier): Unit

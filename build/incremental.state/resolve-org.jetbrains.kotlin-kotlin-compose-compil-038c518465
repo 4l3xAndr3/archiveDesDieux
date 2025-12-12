@@ -1,0 +1,14 @@
+{
+    "codeVersion": "0.9.1",
+    "inputValues": {},
+    "inputFiles": [],
+    "inputFilesState": {},
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\alexa\\AppData\\Local\\JetBrains\\Amper\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-compose-compiler-plugin-embeddable\\2.2.21\\kotlin-compose-compiler-plugin-embeddable-2.2.21.jar"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\alexa\\AppData\\Local\\JetBrains\\Amper\\.m2.cache\\org\\jetbrains\\kotlin\\kotlin-compose-compiler-plugin-embeddable\\2.2.21\\kotlin-compose-compiler-plugin-embeddable-2.2.21.jar": "size 935264 mtime 2025-12-11T13:19:37.8641457Z"
+    },
+    "excludedOutputFiles": []
+}

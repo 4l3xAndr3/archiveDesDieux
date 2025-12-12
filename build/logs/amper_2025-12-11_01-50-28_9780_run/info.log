@@ -1,0 +1,10 @@
+JetBrains Amper version 0.9.1 (7164273, 2025-11-28)
+running on Windows 10 10.0 jvm arch amd64
+
+00:03.094 INFO  :shared:compileJvm        JvmCompileTask            Compiling module 'shared' for platform 'jvm'...
+00:08.632 ERROR :shared:compileJvm        KotlinBuildToolsApiKt     file:///C:/Users/alexa/IdeaProjects/archiveDesDieuxV1/shared/src/ui/components/CardImage.kt:10:22 Unresolved reference 'compose'.
+00:08.634 ERROR :shared:compileJvm        KotlinBuildToolsApiKt     file:///C:/Users/alexa/IdeaProjects/archiveDesDieuxV1/shared/src/ui/components/CardImage.kt:11:22 Unresolved reference 'compose'.
+00:08.634 ERROR :shared:compileJvm        KotlinBuildToolsApiKt     file:///C:/Users/alexa/IdeaProjects/archiveDesDieuxV1/shared/src/ui/components/CardImage.kt:16:8 Unresolved reference 'ExperimentalResourceApi'.
+00:08.635 ERROR :shared:compileJvm        KotlinBuildToolsApiKt     file:///C:/Users/alexa/IdeaProjects/archiveDesDieuxV1/shared/src/ui/components/CardImage.kt:16:8 Annotation argument must be a compile-time constant.
+00:08.635 ERROR :shared:compileJvm        KotlinBuildToolsApiKt     file:///C:/Users/alexa/IdeaProjects/archiveDesDieuxV1/shared/src/ui/components/CardImage.kt:27:9 Try catch is not supported around composable function invocations.
+00:08.636 ERROR :shared:compileJvm        KotlinBuildToolsApiKt     file:///C:/Users/alexa/IdeaProjects/archiveDesDieuxV1/shared/src/ui/components/CardImage.kt:29:27 Unresolved reference 'painterResource'.

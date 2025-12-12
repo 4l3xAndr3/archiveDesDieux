@@ -1,0 +1,16 @@
+JetBrains Amper version 0.9.1 (7164273, 2025-11-28)
+running on Windows 10 10.0 jvm arch amd64
+
+00:03.645 INFO  :shared:compileJvm        JvmCompileTask            Compiling module 'shared' for platform 'jvm'...
+00:21.015 WARN  :shared:compileJvm        KotlinBuildToolsApiKt     file:///D:/github/projet_kotlin_ihm/archiveDesDieuxV1/shared/src/ui/booster/BoosterOpeningScreen.kt:247:50 'fun Image.asImageBitmap(): ImageBitmap' is deprecated. Use toComposeImageBitmap.
+00:21.018 WARN  :shared:compileJvm        KotlinBuildToolsApiKt     file:///D:/github/projet_kotlin_ihm/archiveDesDieuxV1/shared/src/ui/booster/CardRevealView.kt:189:50 'fun Image.asImageBitmap(): ImageBitmap' is deprecated. Use toComposeImageBitmap.
+00:21.022 WARN  :shared:compileJvm        KotlinBuildToolsApiKt     file:///D:/github/projet_kotlin_ihm/archiveDesDieuxV1/shared/src/ui/collection/CollectionScreen.kt:167:50 'fun Image.asImageBitmap(): ImageBitmap' is deprecated. Use toComposeImageBitmap.
+00:21.024 WARN  :shared:compileJvm        KotlinBuildToolsApiKt     file:///D:/github/projet_kotlin_ihm/archiveDesDieuxV1/shared/src/ui/collection/CollectionScreen.kt:214:61 'fun Image.asImageBitmap(): ImageBitmap' is deprecated. Use toComposeImageBitmap.
+00:21.030 WARN  :shared:compileJvm        KotlinBuildToolsApiKt     file:///D:/github/projet_kotlin_ihm/archiveDesDieuxV1/shared/src/ui/collection/CollectionScreen.kt:223:61 'fun Image.asImageBitmap(): ImageBitmap' is deprecated. Use toComposeImageBitmap.
+00:21.032 WARN  :shared:compileJvm        KotlinBuildToolsApiKt     file:///D:/github/projet_kotlin_ihm/archiveDesDieuxV1/shared/src/ui/collection/CollectionScreen.kt:232:61 'fun Image.asImageBitmap(): ImageBitmap' is deprecated. Use toComposeImageBitmap.
+00:21.036 WARN  :shared:compileJvm        KotlinBuildToolsApiKt     file:///D:/github/projet_kotlin_ihm/archiveDesDieuxV1/shared/src/ui/common/SharedBackground.kt:32:50 'fun Image.asImageBitmap(): ImageBitmap' is deprecated. Use toComposeImageBitmap.
+00:21.038 WARN  :shared:compileJvm        KotlinBuildToolsApiKt     file:///D:/github/projet_kotlin_ihm/archiveDesDieuxV1/shared/src/ui/components/CardImage.kt:34:50 'fun Image.asImageBitmap(): ImageBitmap' is deprecated. Use toComposeImageBitmap.
+00:21.041 WARN  :shared:compileJvm        KotlinBuildToolsApiKt     file:///D:/github/projet_kotlin_ihm/archiveDesDieuxV1/shared/src/ui/main/MainMenuScreen.kt:183:50 'fun Image.asImageBitmap(): ImageBitmap' is deprecated. Use toComposeImageBitmap.
+00:21.045 WARN  :shared:compileJvm        KotlinBuildToolsApiKt     file:///D:/github/projet_kotlin_ihm/archiveDesDieuxV1/shared/src/ui/main/MainMenuScreen.kt:498:50 'fun Image.asImageBitmap(): ImageBitmap' is deprecated. Use toComposeImageBitmap.
+00:21.288 INFO  :jvm-app:compileJvm       JvmCompileTask            Compiling module 'jvm-app' for platform 'jvm'...
+02:26.093 INFO  :jvm-app:runJvm           AbstractJvmRunTask        Process exited with exit code 0

@@ -1,0 +1,8 @@
+JetBrains Amper version 0.9.1 (7164273, 2025-11-28)
+running on Windows 10 10.0 jvm arch amd64
+
+00:04.651 INFO  :shared:compileJvm        JvmCompileTask            Compiling module 'shared' for platform 'jvm'...
+00:10.824 ERROR :shared:compileJvm        KotlinBuildToolsApiKt     file:///C:/Users/alexa/IdeaProjects/archiveDesDieuxV1/shared/src/ui/booster/BoosterOpeningScreen.kt:73:56 Unresolved reference 'launch'.
+00:10.826 ERROR :shared:compileJvm        KotlinBuildToolsApiKt     file:///C:/Users/alexa/IdeaProjects/archiveDesDieuxV1/shared/src/ui/booster/BoosterOpeningScreen.kt:74:48 Suspend function 'suspend fun delay(timeMillis: Long): Unit' can only be called from a coroutine or another suspend function.
+00:10.827 ERROR :shared:compileJvm        KotlinBuildToolsApiKt     file:///C:/Users/alexa/IdeaProjects/archiveDesDieuxV1/shared/src/ui/booster/BoosterOpeningScreen.kt:91:56 Unresolved reference 'launch'.
+00:10.828 ERROR :shared:compileJvm        KotlinBuildToolsApiKt     file:///C:/Users/alexa/IdeaProjects/archiveDesDieuxV1/shared/src/ui/booster/BoosterOpeningScreen.kt:92:48 Suspend function 'suspend fun delay(timeMillis: Long): Unit' can only be called from a coroutine or another suspend function.

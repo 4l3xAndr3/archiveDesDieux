@@ -1,0 +1,31 @@
+{
+    "codeVersion": "0.9.1",
+    "inputValues": {
+        "inputDirsDestPaths": "[., ., .]",
+        "jarConfig": "{\"mainClassFqn\":\"MainKt\"}",
+        "outputJarPath": "C:\\Users\\alexa\\OneDrive\\Documents\\GitHub\\projet_kotlin_ihm\\archiveDesDieuxV1\\build\\tasks\\_jvm-app_jarJvm\\jvm-app-jvm.jar"
+    },
+    "inputFiles": [
+        "C:\\Users\\alexa\\OneDrive\\Documents\\GitHub\\projet_kotlin_ihm\\archiveDesDieuxV1\\build\\artifacts\\CompiledJvmClassesArtifact\\jvm-appjvm\\java-output",
+        "C:\\Users\\alexa\\OneDrive\\Documents\\GitHub\\projet_kotlin_ihm\\archiveDesDieuxV1\\build\\artifacts\\CompiledJvmClassesArtifact\\jvm-appjvm\\kotlin-output",
+        "C:\\Users\\alexa\\OneDrive\\Documents\\GitHub\\projet_kotlin_ihm\\archiveDesDieuxV1\\build\\artifacts\\CompiledJvmClassesArtifact\\jvm-appjvm\\resources-output"
+    ],
+    "inputFilesState": {
+        "C:\\Users\\alexa\\OneDrive\\Documents\\GitHub\\projet_kotlin_ihm\\archiveDesDieuxV1\\build\\artifacts\\CompiledJvmClassesArtifact\\jvm-appjvm\\java-output": "EMPTY DIR",
+        "C:\\Users\\alexa\\OneDrive\\Documents\\GitHub\\projet_kotlin_ihm\\archiveDesDieuxV1\\build\\artifacts\\CompiledJvmClassesArtifact\\jvm-appjvm\\kotlin-output\\ComposableSingletons$MainKt$lambda$-1618970650$1$1$1.class": "size 1323 mtime 2025-12-12T09:21:36.1799963Z",
+        "C:\\Users\\alexa\\OneDrive\\Documents\\GitHub\\projet_kotlin_ihm\\archiveDesDieuxV1\\build\\artifacts\\CompiledJvmClassesArtifact\\jvm-appjvm\\kotlin-output\\ComposableSingletons$MainKt$lambda$-1618970650$1.class": "size 4842 mtime 2025-12-12T09:21:36.1769993Z",
+        "C:\\Users\\alexa\\OneDrive\\Documents\\GitHub\\projet_kotlin_ihm\\archiveDesDieuxV1\\build\\artifacts\\CompiledJvmClassesArtifact\\jvm-appjvm\\kotlin-output\\ComposableSingletons$MainKt$lambda$436015572$1.class": "size 2587 mtime 2025-12-12T09:21:36.1689996Z",
+        "C:\\Users\\alexa\\OneDrive\\Documents\\GitHub\\projet_kotlin_ihm\\archiveDesDieuxV1\\build\\artifacts\\CompiledJvmClassesArtifact\\jvm-appjvm\\kotlin-output\\ComposableSingletons$MainKt.class": "size 2074 mtime 2025-12-12T09:21:36.1649969Z",
+        "C:\\Users\\alexa\\OneDrive\\Documents\\GitHub\\projet_kotlin_ihm\\archiveDesDieuxV1\\build\\artifacts\\CompiledJvmClassesArtifact\\jvm-appjvm\\kotlin-output\\META-INF\\main.kotlin_module": "size 36 mtime 2025-12-12T09:21:36.1839974Z",
+        "C:\\Users\\alexa\\OneDrive\\Documents\\GitHub\\projet_kotlin_ihm\\archiveDesDieuxV1\\build\\artifacts\\CompiledJvmClassesArtifact\\jvm-appjvm\\kotlin-output\\MainKt.class": "size 788 mtime 2025-12-12T09:21:36.1810004Z",
+        "C:\\Users\\alexa\\OneDrive\\Documents\\GitHub\\projet_kotlin_ihm\\archiveDesDieuxV1\\build\\artifacts\\CompiledJvmClassesArtifact\\jvm-appjvm\\resources-output": "EMPTY DIR"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "C:\\Users\\alexa\\OneDrive\\Documents\\GitHub\\projet_kotlin_ihm\\archiveDesDieuxV1\\build\\tasks\\_jvm-app_jarJvm\\jvm-app-jvm.jar"
+    ],
+    "outputFilesState": {
+        "C:\\Users\\alexa\\OneDrive\\Documents\\GitHub\\projet_kotlin_ihm\\archiveDesDieuxV1\\build\\tasks\\_jvm-app_jarJvm\\jvm-app-jvm.jar": "size 6791 mtime 2025-12-12T09:21:36.4313462Z"
+    },
+    "excludedOutputFiles": []
+}

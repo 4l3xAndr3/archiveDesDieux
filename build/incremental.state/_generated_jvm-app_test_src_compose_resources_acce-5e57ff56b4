@@ -1,0 +1,15 @@
+{
+    "codeVersion": "0.9.1",
+    "inputValues": {
+        "%outputs%": "D:\\github\\projet_kotlin_ihm\\archiveDesDieuxV1\\build\\generated\\jvm-app\\test\\src\\compose\\resources\\accessors",
+        "makeAccessorsPublic": "false",
+        "packageName": "\"jvm_app.generated.resources\"",
+        "packagingDir": "\"composeResources/jvm_app.generated.resources/\""
+    },
+    "inputFiles": [],
+    "inputFilesState": {},
+    "outputValues": {},
+    "outputFiles": [],
+    "outputFilesState": {},
+    "excludedOutputFiles": []
+}
